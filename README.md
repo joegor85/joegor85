@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Joe
+I am currently immersed in an 18-week Software Engineering learning environment by Galvanize Inc. I am creating many cool projects as I move through it. Check out my latest project (frontend-project) which is a fun website to look at xkcd comics!
+
+Linkedin: www.linkedin.com/in/joegoralczyk
+
 
 <!--
 **joegor85/joegor85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
