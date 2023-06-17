@@ -6,8 +6,12 @@ continue to learn and develop my software skills. Check out some of my latest pr
 #### A team collaboration to practice Agile methodology and workflows. This is a clone of an Airbnb "item" page.
 https://github.com/joegor85/chairbnb
 
+#### My first project utilizing the React framework. I am a list-maker, so I decided to make a list manager to help users keep track of lists in daily life.
+https://github.com/joegor85/React_MVP
+
 #### A fun website to look at xkcd comics! 
 https://joegor85.github.io/frontend-project/
+
 
 ### Linkedin:
 Linkedin: www.linkedin.com/in/joegoralczyk
