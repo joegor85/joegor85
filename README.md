@@ -1,10 +1,15 @@
 ### Hi there 👋 My name is Joe
 I am currently immersed in an 18-week Software Engineering learning  
 environment by Galvanize Inc. I am creating many cool projects as I  
-move through it. Check out my latest project (frontend-project) which  
-is a fun website to look at xkcd comics! 
+continue to learn and develop my software skills. Check out some of my latest projects!
+
+#### A team collaboration to practice Agile methodology and workflows. This is a clone of an Airbnb "item" page.
+https://github.com/joegor85/chairbnb
+
+#### A fun website to look at xkcd comics! 
 https://joegor85.github.io/frontend-project/
 
+### Linkedin:
 Linkedin: www.linkedin.com/in/joegoralczyk
 
 
