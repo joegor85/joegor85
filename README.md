@@ -1,7 +1,10 @@
 ### Hi there 👋 My name is Joe
-I am currently immersed in an 18-week Software Engineering learning  
+I recently completed an 18-week Software Engineering learning  
 environment by Galvanize Inc. I am creating many cool projects as I  
 continue to learn and develop my software skills. Check out some of my latest projects!
+
+#### A robust tool for tracking and conducting interviews with prospective students
+https://github.com/gschool-blue-ocean/admissions-hub-20
 
 #### A team collaboration to practice Agile methodology and workflows. This is a clone of an Airbnb "item" page.
 https://github.com/joegor85/chairbnb
